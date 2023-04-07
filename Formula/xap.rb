@@ -1,4 +1,4 @@
-# Generated with JReleaser 1.5.1 at 2023-04-07T16:02:39.759147+08:00
+# Generated with JReleaser 1.5.1 at 2023-04-07T16:15:09.705768+08:00
 class Xap < Formula
   desc "CLI for XPIE Application Platform"
   homepage "https://www.xpie.cn"
