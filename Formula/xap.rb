@@ -1,10 +1,10 @@
-# Generated with JReleaser 1.5.1 at 2023-04-07T16:38:39.076732+08:00
+# Generated with JReleaser 1.5.1 at 2023-04-07T20:48:34.723916+08:00
 class Xap < Formula
   desc "CLI for XPIE Application Platform"
   homepage "https://www.xpie.cn"
   url "https://github.com/chendouble/xap-releases/releases/download/4.0.0-Alpha1/xap-adminui-cli-app-4.0.0-Alpha1.zip"
   version "4.0.0-Alpha1"
-  sha256 "dced21b7cd9358059a9fd36457f547965bf198d0eea26c41a3972bdae1a8ee3c"
+  sha256 "87d7fde7cc2fecfe5eced16299caa5b79249aef1da9f18f64c754dd7e788c98e"
   license "Private"
 
 
